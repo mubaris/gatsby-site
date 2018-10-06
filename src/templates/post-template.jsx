@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import PostTemplateDetails from '../components/PostTemplateDetails'
 
 import 'katex/dist/katex.min.css'
+import '../assets/mailchimp.css'
 
 class PostTemplate extends React.Component {
   render() {

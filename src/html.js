@@ -52,6 +52,16 @@ export default class HTML extends React.Component {
               `
             }}
           />
+          <script src="https://cdn.emojicom.io/embed/widget.js" async />
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              window.EMOJICOM_WIDGET = {
+                campaign: "ReLGFzw0nmX9eNsMsEh1"
+              };
+              `
+            }}
+          />
         </head>
         <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}
