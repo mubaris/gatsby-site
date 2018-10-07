@@ -22,12 +22,18 @@ class Links extends React.Component {
               href={`https://www.twitter.com/${links.twitter}`}
               target="_blank"
               aria-label="Twitter"
+              rel="noopener noreferrer"
             >
               <i className="icon-twitter" />
             </a>
           </li>
           <li className="links__list-item">
-            <a href={`https://www.github.com/${links.github}`} aria-label="Github" target="_blank">
+            <a
+              href={`https://www.github.com/${links.github}`}
+              aria-label="Github"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <i className="icon-github" />
             </a>
           </li>
@@ -44,7 +50,12 @@ class Links extends React.Component {
             </a>
           </li>
           <li className="links__list-item">
-            <a href={`https://t.me/${links.telegram}`} aria-label="Telegram">
+            <a
+              href={`https://t.me/${links.telegram}`}
+              aria-label="Telegram"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
               <i className="icon-paper-plane" />
             </a>
           </li>
