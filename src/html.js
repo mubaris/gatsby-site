@@ -28,7 +28,7 @@ export default class HTML extends React.Component {
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
           {this.props.headComponents}
-          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="" />
+          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" defer />
           <script
             dangerouslySetInnerHTML={{
               __html: `
