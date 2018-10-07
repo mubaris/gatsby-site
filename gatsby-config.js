@@ -207,6 +207,13 @@ module.exports = {
         precision: 8,
       },
     },
+    // {
+    //   resolve: 'gatsby-plugin-purgecss',
+    //   options: {
+    //     printAll: true,
+    //     printRejected: true
+    //   }
+    // },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

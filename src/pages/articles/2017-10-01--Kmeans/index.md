@@ -4,6 +4,7 @@ title:  K-Means Clustering in Python
 date: "2017-10-01T12:00:00.000Z"
 path: "/posts/kmeans-clustering/"
 category: "Python"
+equation: true
 tags: 
   - Python
   - Tutorial

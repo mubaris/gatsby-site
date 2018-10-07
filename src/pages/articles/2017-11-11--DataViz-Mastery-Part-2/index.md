@@ -9,8 +9,8 @@ tags:
   - Data Visualization
   - Tutorial
 header-img: files/images/post14.jpg
-twimg: output_11_1.jpg
-image: output_11_1.jpg
+twimg: https://i.imgur.com/DcVjzt8.jpg
+image: https://i.imgur.com/DcVjzt8.jpg
 description: "Part 2 of DataViz Mastery. Build your own Word Clouds from text data."
 ---
 

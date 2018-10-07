@@ -65,6 +65,7 @@ export const pageQuery = graphql`
         title
         tags
         date
+        equation
         description
         image
         path

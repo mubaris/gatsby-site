@@ -4,6 +4,7 @@ title:  Project Ozii - Generating PulseGraphs from Text
 date: "2017-10-04T12:00:00.000Z"
 path: "/posts/ozii/"
 category: "Python"
+equation: true
 tags: 
   - Python
   - Project

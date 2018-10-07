@@ -4,6 +4,7 @@ title:  TensorFlow 101
 date: "2017-10-21T12:00:00.000Z"
 path: "/posts/tensorflow/"
 category: "Python"
+equation: true
 tags: 
   - Python
   - Tutorial

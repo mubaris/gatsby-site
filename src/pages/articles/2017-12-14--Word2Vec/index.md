@@ -5,6 +5,7 @@ title:  "Word Embeddings - word2vec"
 draft: false
 path: "/posts/word2vec/"
 category: "Python"
+equation: true
 tags: 
   - Python
   - NLP
