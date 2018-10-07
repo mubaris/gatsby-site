@@ -43,7 +43,7 @@ We have seen different definitions of Data Science. Now let's unfold what skills
 We here it often. But does this define the role of a Data Scientist? With Statistics and Software Engineering, can you become a Data Scientist? Yes and no. Let me explain in depth. Data scientists use their knowledge of statistics and modeling to convert data into actionable insights.
 
 
-![Data Scientist Venn Diagram](https://i.imgur.com/KWqJEau.png)
+![Data Scientist Venn Diagram](https://i.imgur.com/4LtswsT.jpg)
 
 This Venn Diagram explains who is a Data Scientist very well. A Data Scientist is someone who has enough Mathematical & Statistical Knowledge and very good at Programming. These 2 skills are enough to become good at machine learning. But skills of a data scientist goes beyond that. A Data Scientist possess substantive expertise to ask good questions and have the understanding of his/her field whether it's medical, business or education.
 

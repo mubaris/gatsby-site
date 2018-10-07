@@ -61,7 +61,7 @@ I tried functions $sin(x)$, $cos(x)$, $log(x)$, $e^x$, and $x^n$ with different 
 
 When I tried composite function for some word, I got an interesting plot like this one below:
 
-![Demo1](https://i.imgur.com/0opRmuw.png)
+![Demo1](https://i.imgur.com/QpanJ9P.jpg)
 
 It looks like pulses. When I checked for the function, it was the following one:
 
@@ -71,7 +71,7 @@ $$
 
 But of course, it had different coeffiecients. Then I checked for the actual plot of this function. That looked like this.
 
-![Transformer](https://i.imgur.com/CPsaVDf.png)
+![Transformer](https://i.imgur.com/kZatF6Z.jpg)
 
 It looks very interesting. So, I created a method to generate pulsegraphs from text using the frequency of the alphabet and this function. For now on in this we call this function $ozii$.
 
@@ -113,7 +113,7 @@ Scale down $y$ to maximum of 0.5
 
 If you plot this you will get the following pulsegraph:
 
-![time pulsegraph](https://i.imgur.com/SC21sZw.png)
+![time pulsegraph](https://i.imgur.com/V8cqFGg.jpg)
 
 And for sentences I took the sum of each $y$ to make the plot.
 
@@ -247,31 +247,31 @@ You might have noticed that I have added weight values to capital letters too.
 
 #### ozii
 
-![ozii](https://i.imgur.com/OdY8DbM.png)
+![ozii](https://i.imgur.com/mtQf8hZ.jpg)
 
 #### Time
 
-![Time](https://i.imgur.com/7rFdrBq.png)
+![Time](https://i.imgur.com/S1J9UxB.jpg)
 
 #### There is no linear time
 
-![There is no linear time](https://i.imgur.com/kgP2lWK.png)
+![There is no linear time](https://i.imgur.com/GPOLODn.jpg)
 
 #### Batman
 
-![Batman](https://i.imgur.com/Ypj5K3Q.png)
+![Batman](https://i.imgur.com/FbBRiev.jpg)
 
 #### I am Batman
 
-![I am Batman](https://i.imgur.com/Y6Lfuw5.png)
+![I am Batman](https://i.imgur.com/1Nz0RQc.jpg)
 
 #### Human
 
-![Human](https://i.imgur.com/fnob73l.png)
+![Human](https://i.imgur.com/qpXoLpJ.jpg)
 
 #### Humanity
 
-![Humanity](https://i.imgur.com/KqCpsPi.png)
+![Humanity](https://i.imgur.com/uXiAHm8.jpg)
 
 Checkout this [Github Repo](https://github.com/mubaris/ozii) for examples and full code.
 

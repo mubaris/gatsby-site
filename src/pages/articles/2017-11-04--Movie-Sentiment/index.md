@@ -178,7 +178,7 @@ ttl.set_position([.5, 1.05])
 ```
 
 
-![png](output_4_0.png)
+![png](output_4_0.jpg)
 
 
 There we have our plot of Sentiment Analysis of subtitle against the running time. All code is available on [GitHub](https://github.com/mubaris/dataviz-gallery/tree/master/movie-subtitles)
@@ -187,79 +187,79 @@ There we have our plot of Sentiment Analysis of subtitle against the running tim
 
 #### Iron Man (2008)
 
-![Iron Man](https://i.imgur.com/zFUGY0v.png)
+![Iron Man](https://i.imgur.com/rugKsKQ.jpg)
 
 #### The Incredible Hulk (2008)
 
-![The Incredible Hulk](https://i.imgur.com/FGATJPH.png)
+![The Incredible Hulk](https://i.imgur.com/fawPPYK.jpg)
 
 #### Iron Man 2 (2010)
 
-![Iron Man 2](https://i.imgur.com/2hOSCf0.png)
+![Iron Man 2](https://i.imgur.com/zoAgvHD.jpg)
 
 #### Thor (2011)
 
-![Thor](https://i.imgur.com/etpqMur.png)
+![Thor](https://i.imgur.com/sPKTzUT.jpg)
 
 #### Captain America: The First Avenger (2011)
 
-![Captain America: The First Avenger](https://i.imgur.com/dXtIEov.png)
+![Captain America: The First Avenger](https://i.imgur.com/HXqCulo.jpg)
 
 #### The Avengers (2012)
 
-![The Avengers](https://i.imgur.com/e7vRVuo.png)
+![The Avengers](https://i.imgur.com/7y3l40G.jpg)
 
 #### Iron Man 3 (2013)
 
-![Iron Man 3](https://i.imgur.com/hzhy5GQ.png)
+![Iron Man 3](https://i.imgur.com/vTRSkrj.jpg)
 
 #### Captain America: The Winter Soldier (2014)
 
-![Captain America: The Winter Soldier](https://i.imgur.com/2OrU8IE.png)
+![Captain America: The Winter Soldier](https://i.imgur.com/7nOjNoH.jpg)
 
 #### Guardians of the Galaxy (2014)
 
-![Guardians of the Galaxy](https://i.imgur.com/yyyyR1E.png)
+![Guardians of the Galaxy](https://i.imgur.com/cBUwgpB.jpg)
 
 #### Avengers: Age of Ultron (2015)
 
-![Avengers: Age of Ultron ](https://i.imgur.com/8ib9nEu.png)
+![Avengers: Age of Ultron ](https://i.imgur.com/xag5nNv.jpg)
 
 #### Ant-Man (2015)
 
-![Ant-Man](https://i.imgur.com/2dRuMe4.png)
+![Ant-Man](https://i.imgur.com/s9HTORu.jpg)
 
 #### Captain America: Civil War (2016)
 
-![Captain America: Civil War](https://i.imgur.com/zASrxVo.png)
+![Captain America: Civil War](https://i.imgur.com/UnuuqOx.jpg)
 
 #### Doctor Strange (2016)
 
-![Doctor Strange](https://i.imgur.com/WSN4it7.png)
+![Doctor Strange](https://i.imgur.com/H4TSjXi.jpg)
 
 #### Guardians of the Galaxy Vol. 2 (2017)
 
-![Guardians of the Galaxy Vol. 2](https://i.imgur.com/UT8NvMl.png)
+![Guardians of the Galaxy Vol. 2](https://i.imgur.com/FQJfbxY.jpg)
 
 #### Spider-Man: Homecoming (2017)
 
-![Spider-Man: Homecoming](https://i.imgur.com/7T357iY.png)
+![Spider-Man: Homecoming](https://i.imgur.com/pzlEP0p.jpg)
 
 #### Man of Steel (2013)
 
-![Man of Steel](https://i.imgur.com/wXWlxtH.png)
+![Man of Steel](https://i.imgur.com/u858oJI.jpg)
 
 #### Batman v Superman: Dawn of Justice (2016)
 
-![Batman v Superman: Dawn of Justice](https://i.imgur.com/8ySq3bs.png)
+![Batman v Superman: Dawn of Justice](https://i.imgur.com/PyETuHd.jpg)
 
 #### Suicide Squad (2016)
 
-![Suicide Squad](https://i.imgur.com/tOB9eQw.png)
+![Suicide Squad](https://i.imgur.com/4dxUK9d.jpg)
 
 #### Wonder Woman (2017)
 
-![Wonder Woman](https://i.imgur.com/wxlU4Pv.png)
+![Wonder Woman](https://i.imgur.com/FEWe6WX.jpg)
 
 <div id="mc_embed_signup">
 <form action="//mubaris.us16.list-manage.com/subscribe/post?u=f9e9a4985cce81e89169df2bf&amp;id=3654da5463" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

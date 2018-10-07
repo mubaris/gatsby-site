@@ -9,8 +9,8 @@ tags:
   - Data Visualization
   - Tutorial
 header-img: files/images/post14.jpg
-twimg: output_11_1.png
-image: output_11_1.png
+twimg: output_11_1.jpg
+image: output_11_1.jpg
 description: "Part 2 of DataViz Mastery. Build your own Word Clouds from text data."
 ---
 
@@ -24,11 +24,11 @@ A Word Cloud (or tag cloud) is a visual representation for text data, typically 
 
 * Top 1000 most common password
 
-![Password](https://i.imgur.com/FImcPiG.png)
+![Password](https://i.imgur.com/kZrDvz7.jpg)
 
 * Word Cloud of Trump Insults
 
-![Trump Insult](https://i.imgur.com/BGxCkqX.png)
+![Trump Insult](https://i.imgur.com/L5MDTcO.jpg)
 
 ## The Code
 
@@ -84,7 +84,7 @@ plt.axis("off")
 
 
 
-![png](output_2_1.png)
+![png](output_2_1.jpg)
 
 
 It's very clear that, "Diana" is the most repeated word in the movie.
@@ -132,7 +132,7 @@ plt.axis("off")
 
 
 
-![png](output_5_1_2.png)
+![png](output_5_1_2.jpg)
 
 
 ### Word Cloud 3 - Colored Mask
@@ -182,7 +182,7 @@ plt.axis("off")
 
 
 
-![png](output_8_1_2.png)
+![png](output_8_1_2.jpg)
 
 
 ### Word Cloud 4 - Cannon of Sherlock Holmes
@@ -232,7 +232,7 @@ plt.axis("off")
 
 
 
-![png](output_11_1.png)
+![png](output_11_1.jpg)
 
 
 ### Word Cloud 5 - Trump Tweets
@@ -284,7 +284,7 @@ plt.axis("off")
 
 
 
-![png](output_14_1_2.png)
+![png](output_14_1_2.jpg)
 
 
 ### Word Cloud 6 - All Star Wars Scripts
@@ -331,7 +331,7 @@ plt.axis("off")
 
 
 
-![png](output_17_1.png)
+![png](output_17_1.jpg)
 
 
 That's all for Word Clouds. We will be continue this series with more visualization tutorials. Checkout the following references and books to learn more. Checkout [this Github Repo](https://github.com/mubaris/dataviz-gallery/tree/master/word-clouds) for the code and more visualizations.

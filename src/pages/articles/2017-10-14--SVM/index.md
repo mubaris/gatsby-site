@@ -18,13 +18,13 @@ A **Support Vector Machine (SVM)** is a very powerful and flexible Machine Learn
 
 Let's say we have 2 classes of data which we want to classify using SVM as shown in the figure.
 
-![SVM Lines](https://i.imgur.com/S2ovC7d.png)
+![SVM Lines](https://i.imgur.com/DYoJdfp.jpg)
 
 The 2 classes can clearly be seperated easily with a straight line (*linearly seperable*). The left plot shows the decision boundaries of 2 possible linear classifiers. An SVM model is all about generating the right line (called **Hyperplane** in higher dimension) that classifies the data very well. In the left plot, even though red line classifies the data, it might not perform very well on new instances of data. We can draw many lines that classifies this data, but among all these lines blue line seperates the data most. The same blue line is shown on the right plot. This line (hyperplane) not only seperates the two classes but also stays as far away from the closest training instances possible. You can think of an SVM classifier as fitting the widest possible street (represented by parallel dashed lines on the right plot) between the classes. This is called *Large Margin Classification*.
 
 This best possible decision boundary is determined (or "supported") by the instances located on the edge of the street. These instances are called the **support vectors**. The distance between the edges of "the street" is called **margin**.
 
-![Support Vectors](https://i.imgur.com/ELjoxog.png)
+![Support Vectors](https://i.imgur.com/EgYpim1.jpg)
 
 ### Soft Margin Classification
 
@@ -34,7 +34,7 @@ If we strict our instances be off the "street" and on the correct side of the li
 
 2) It is quite sensitive to outliers.
 
-![Hard Margin](https://i.imgur.com/38sDWNB.png)
+![Hard Margin](https://i.imgur.com/QkQ5kNw.jpg)
 
 In the above data classes, there is a blue outlier. And if we apply Hard margin classification on this dataset, we will get decision boundary with small margin shown in the left diagram. To avoid these issues it is preferable to to use more flexible model. The objective is to find a good balance between keeping the street as large as possible and limiting the *margin violation* (i.e., instances that end up in the middle of the street or even on the wrong side). This is called *Soft margin classification*. If we apply Soft margin classification on this dataset, we will get decision boundary with larger margin than Hard margin classification. This is shown in the right diagram.
 
@@ -70,7 +70,7 @@ $$
 
 RBF Kernels are very useful if we have datasets like the following one;
 
-![RBF](https://i.imgur.com/uHN10EE.png)
+![RBF](https://i.imgur.com/edNXrb9.jpg)
 
 ## Hyperparameters
 
@@ -150,19 +150,19 @@ for i, clf in enumerate(clf_arr):
 ```
 
 
-![png](output_1_0.png)
+![png](output_1_0.jpg)
 
 
 
-![png](output_1_1.png)
+![png](output_1_1.jpg)
 
 
 
-![png](output_1_2.png)
+![png](output_1_2.jpg)
 
 
 
-![png](output_1_3.png)
+![png](output_1_3.jpg)
 
 
     0.992907801418
@@ -226,7 +226,7 @@ print(pred)
 ```
 
 
-![png](output_3_0.png)
+![png](output_3_0.jpg)
 
 
     1.0
@@ -283,19 +283,19 @@ for i, clf in enumerate(clf_arr):
 ```
 
 
-![png](output_5_0.png)
+![png](output_5_0.jpg)
 
 
 
-![png](output_5_1.png)
+![png](output_5_1.jpg)
 
 
 
-![png](output_5_2.png)
+![png](output_5_2.jpg)
 
 
 
-![png](output_5_3.png)
+![png](output_5_3.jpg)
 
 
     0.83
@@ -352,19 +352,19 @@ for i, clf in enumerate(clf_arr):
 ```
 
 
-![png](output_6_0.png)
+![png](output_6_0.jpg)
 
 
 
-![png](output_6_1_1.png)
+![png](output_6_1_1.jpg)
 
 
 
-![png](output_6_2.png)
+![png](output_6_2.jpg)
 
 
 
-![png](output_6_3.png)
+![png](output_6_3.jpg)
 
 
     0.965

@@ -42,7 +42,7 @@ In contrast, for the CBOW model, we’ll input the context words within the wind
 
 The following is a visualization of the skip-gram and CBOW models:
 
-![CBOW and SkipGram](https://i.imgur.com/gSt7UCH.png)
+![CBOW and SkipGram](https://i.imgur.com/vNYiUZi.jpg)
 
 Since SkipGram had been shown to perform better on analogy-related tasks than the CBOW model, it's better to use SkipGram model for the most part. Overall, if you understand one model, it is pretty easy to understand the other: just reverse the inputs and predictions. Since both papers focused on the skip-gram model, this post will do the same.
 

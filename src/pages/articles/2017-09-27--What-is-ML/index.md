@@ -45,13 +45,13 @@ The main goal of classification is to predict the target class (Yes/ No). If the
 
 The main goal of regression algorithms is the predict the discrete or a continues value. In some cases, the predicted value can be used to identify the linear relationship between the attributes. Suppose the increase in the product advantage budget will increase the product sales.  Based on the problem difference regression algorithms can be used. some of the basic regression algorithms are linear regression, polynomial regression … etc
 
-![Regression](https://i.imgur.com/Qu5WuSV.png)
+![Regression](https://i.imgur.com/KwidGMd.jpg)
 
 ### Clustering
 
 Clustering is an unsupervised machine learning task that automatically divides the data into clusters, or groups of similar items. It does this without having been told how the groups should look ahead of time. As we may not even know what we're looking for, clustering is used for knowledge discovery rather than prediction. It provides an insight into the natural groupings found within data.
 
-![Clustering](https://i.imgur.com/WLtE9F5.png)
+![Clustering](https://i.imgur.com/0aQdpdk.jpg)
 
 ## Machine Learning Books for Beginners
 
@@ -69,7 +69,7 @@ Machine Learning in Action is unique book that blends the foundational theories 
 
 ## Conclusion
 
-![ML Classes](https://i.imgur.com/emDnmdY.png)
+![ML Classes](https://i.imgur.com/FVcH4F4.jpg)
 
 I highly recommend reading [Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/).
 

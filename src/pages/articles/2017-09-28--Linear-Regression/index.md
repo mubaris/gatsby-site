@@ -527,7 +527,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](output_18_0.jpg)
 
 
 Now we will generate our X, Y and $\beta$.

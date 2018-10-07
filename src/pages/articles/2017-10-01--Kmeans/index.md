@@ -347,7 +347,7 @@ ax.scatter(X[:, 0], X[:, 1], X[:, 2])
 
 
 
-![png](output_14_1.png)
+![png](output_14_1.jpg)
 
 
 
@@ -375,7 +375,7 @@ ax.scatter(C[:, 0], C[:, 1], C[:, 2], marker='*', c='#050505', s=1000)
 
 
 
-![png](output_16_1.png)
+![png](output_16_1.jpg)
 
 
 In the above image, you can see 4 clusters and their centroids as stars. scikit-learn approach is very simple and concise.

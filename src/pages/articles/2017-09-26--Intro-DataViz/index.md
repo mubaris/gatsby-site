@@ -29,21 +29,21 @@ When we have a dataset, it will take some time to make the meaning of that data.
 
 * **Countries with largest defense budget**
 
-![Defense Budget](https://i.imgur.com/SJwm2Kg.png)
+![Defense Budget](https://i.imgur.com/xNhYkpk.jpg)
 
 You can clearly see that US defense budget almost equal as the combined budget of other countries.
 
 * **Largest Occupations in the United States**
 
-![US Occupation](https://i.imgur.com/BSmMBo3.png)
+![US Occupation](https://i.imgur.com/BSACkG5.jpg)
 
 * **Atheists in Europe**
 
-![Europe Atheist](https://i.redd.it/shyvnpt2kamx.png)
+![Europe Atheist](https://i.imgur.com/mVwIYuR.jpg)
 
 * **Death by Heart Decease in US by Nick Usoff**
 
-![Heart Decease](https://i.redd.it/0kjvfx55vody.png)
+![Heart Decease](https://i.imgur.com/V3zmeYQ.jpg)
 
 I can show you many more here. There are endless supply of Data Visualizations available on internet.
 

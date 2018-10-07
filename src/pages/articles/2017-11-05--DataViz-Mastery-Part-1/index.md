@@ -22,11 +22,11 @@ Treemaps display hierarchical data as a set of nested rectangles. Each group is 
 
 ### Examples
 
-![Bloomberg Force Awakens](https://i.imgur.com/6qYatVp.png)
+![Bloomberg Force Awakens](https://i.imgur.com/ig66Ngi.jpg)
 
-![Defense Budget](https://i.imgur.com/SJwm2Kg.png)
+![Defense Budget](https://i.imgur.com/zJjUA4r.jpg)
 
-![Third Example](https://i.imgur.com/VSpdfU8.png)
+![Third Example](https://i.imgur.com/lncSqhf.jpg)
 
 ## The Code
 
@@ -202,7 +202,7 @@ fig.set_facecolor('#eeffee')
 ```
 
 
-![png](output_5_0_1.png)
+![png](output_5_0_1.jpg)
 
 
 If you want to try different colormap, find a colormap of your choice from [Matplotlib Docs](https://matplotlib.org/examples/color/colormaps_reference.html) and replace 2nd line in this snippet. Now Let's try plotting World's top 10 Billionaires net worth.
@@ -327,7 +327,7 @@ fig.set_facecolor('#effeef')
 ```
 
 
-![png](output_8_0_1.png)
+![png](output_8_0_1.jpg)
 
 
 That concludes the part 1 of DataViz Mastery. Let me know if you have any questions. In the next DataViz Mastery post we will learn how to create Word Clouds using Python

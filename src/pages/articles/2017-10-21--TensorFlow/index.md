@@ -25,7 +25,7 @@ The main data unit in TensorFlow is a Tensor. Let's try to understand what's a t
 
 A **Scalar** is just a number. A **Vector** is a quantity which has both magnitude and direction. This can be represented as one-dimensional array of numbers. A **Matrix** is a rectangular(two dimensional) array of numbers. A 3 or more dimensional array is called a **Tensor**. $N$ dimensional tensor is called N-Tensor.
 
-![Scalar, Vector, Matrix & Tensor](https://i.imgur.com/gkQXpm7.png)
+![Scalar, Vector, Matrix & Tensor](https://i.imgur.com/870DUlv.jpg)
 
 If you define **Tensor** by rank,
 
@@ -172,7 +172,7 @@ def plot_decision_boundary(pred_func, X):
 ```
 
 
-![png](output_3_0_1.png)
+![png](output_3_0_1.jpg)
 
 
 Now we will create our model using TensorFlow. I'm gonna explain some of the function in TensorFlow.
@@ -246,7 +246,7 @@ plot_decision_boundary(lambda x: sess.run(predicted, feed_dict={X:x}), x)
 
 
 
-![png](output_5_1_1.png)
+![png](output_5_1_1.jpg)
 
 
 That's our Logistic Regression Model using TensorFlow. Hope this helps. Let me know if you found any errors.
