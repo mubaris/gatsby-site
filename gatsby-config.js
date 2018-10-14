@@ -4,7 +4,7 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://mubaris.com',
-    title: 'Blog by ᴍᴜʙᴀʀɪꜱ ɴᴋ',
+    title: 'Blog by Mubaris NK',
     subtitle:
       'Everything you can imagine is real',
     copyright: '© All rights reserved.',
@@ -25,7 +25,7 @@ module.exports = {
       },
     ],
     author: {
-      name: 'ᴍᴜʙᴀʀɪꜱ ɴᴋ',
+      name: 'Mubaris NK',
       email: 'hello@mubaris.com',
       telegram: 'mubaris7',
       twitter: 'Mubaris_NK',
