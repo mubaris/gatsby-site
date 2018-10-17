@@ -9,7 +9,7 @@ path: "/about"
 👨‍💻 I'm a Freelance Web Developer  
 🚀 Indie Developer  
 ✍ Blogger  
-🎒 Student
+🎒 Student at Prayagraj
 
 I mainly work with following technologies,
 
