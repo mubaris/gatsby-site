@@ -36,8 +36,6 @@ With the help of Koa, we'll build a simple sentiment analysis API which takes a 
 
 Let's get started building this API.
 
-<iframe style={{border:0}} width="320px" height="144px" src="https://makerads.xyz/ad">
-
 ## Hello World
 
 We'll start with a simplest example. First off, we need to install Koa. Create a new directory and we'll run the following to install Koa.
