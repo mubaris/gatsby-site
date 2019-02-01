@@ -60,7 +60,7 @@ class PostTemplateDetails extends React.Component {
           </div>
           <div className="post-single__footer">
             {tagsBlock}
-            <iframe style={{border:0}} width="320px" height="144px" src="https://makerads.xyz/ad">
+            <iframe style={{border:0}} width="320px" height="144px" src="https://makerads.xyz/ad"></iframe>
             <hr />
             <p className="post-single__footer-text">
               {subtitle}
