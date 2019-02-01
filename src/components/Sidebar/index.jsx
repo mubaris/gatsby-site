@@ -51,7 +51,7 @@ class Sidebar extends React.Component {
       <div className="sidebar">
         <div className="sidebar__inner">
           <div className="sidebar__author">{authorBlock}</div>
-          <iframe style="border:0;width:320px;height:144px;" src="https://makerads.xyz/ad"></iframe>
+          <iframe style={{border:0}} width="320px" height="144px" src="https://makerads.xyz/ad"></iframe>
           <div>
             <Menu data={menu} />
             <Links data={author} />
