@@ -4,6 +4,7 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://mubaris.com',
+    siteUrl: `https://mubaris.com`,
     title: 'Blog by Mubaris NK',
     subtitle:
       'Everything you can imagine is real',
@@ -227,5 +228,6 @@ module.exports = {
         icon: `src/assets/icon.png`, // This path is relative to the root of the site.
       },
     },
+    `gatsby-plugin-sitemap`
   ],
 }
