@@ -17,6 +17,10 @@ Linear Regression is one of the easiest algorithms in machine learning. In this 
 
 As the name suggests this algorithm is applicable for Regression problems. Linear Regression is a **Linear Model**. Which means, we will establish a linear relationship between the input variables(**X**) and single output variable(**Y**). When the input(**X**) is a single variable this model is called **Simple Linear Regression** and when there are mutiple input variables(**X**), it is called **Multiple Linear Regression**.
 
+<a href="https://progressdash.xyz/?ref=mubaris&page=lr" class="ad-banner" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.imgur.com/tO1TSg2.png">
+</a>
+
 ## Simple Linear Regression
 
 We discussed that Linear Regression is a simple model. Simple Linear Regression is the simplest model in machine learning.
