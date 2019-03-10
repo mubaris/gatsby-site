@@ -62,6 +62,7 @@ export default class HTML extends React.Component {
               `
             }}
           />
+        <script async defer type="text/javascript" src="https://plausible.io/js/plausible.js" />
         </head>
         <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}
