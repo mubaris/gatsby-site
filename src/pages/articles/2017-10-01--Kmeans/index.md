@@ -15,9 +15,11 @@ description: "K-Means Clustering is one of the popular clustering algorithm. The
 
 Clustering is a type of **Unsupervised learning**. This is very often used when you don't have labeled data. **K-Means Clustering** is one of the popular clustering algorithm. The goal of this algorithm is to find groups(clusters) in the given data.  In this post we will implement K-Means algorithm using Python from scratch.
 
-<a href="https://progressdash.xyz/?ref=mubaris&page=kmeans" class="ad-banner" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/tO1TSg2.png">
-</a>
+<div class="ad-banner">
+  <a href="https://progressdash.xyz/?ref=mubaris&page=kmeans" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.imgur.com/tO1TSg2.png">
+  </a>
+</div>
 
 ## K-Means Clustering
 
