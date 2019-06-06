@@ -29,7 +29,7 @@ module.exports = {
       name: 'Mubaris NK',
       email: 'hello@mubaris.com',
       telegram: 'mubaris7',
-      twitter: 'Mubaris_NK',
+      twitter: 'mubarisQ',
       github: 'mubaris',
       rss: '#',
       vk: '#',
