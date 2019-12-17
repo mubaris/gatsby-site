@@ -53,7 +53,7 @@
     "gatsby-source-filesystem": "^2.0.0-alpha.4",
     "gatsby-transformer-remark": "^1.7.28",
     "gatsby-transformer-sharp": "^1.6.16",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "react": "^16.3.0",
     "react-disqus-comments": "^1.1.1",
     "react-dom": "^16.3.0",
